@@ -1,0 +1,26 @@
+header{
+    background-color: blue;
+    height: 50px;
+}
+h2{
+    color: white;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+#btn{
+    background-color: green;
+    margin-top: 20px;
+}
+input{
+    width: 90%;
+    margin-left: 30px;
+}
+fieldset{
+    border-width: 5px;
+    border-color: black;
+}
+label{
+    margin-left: 30px;
+}
